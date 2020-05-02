@@ -1,0 +1,50 @@
+header{
+	text-align: center;
+	
+}
+h1{
+    color:red;
+	font-variant: small-caps;
+	font-family: Berlin Sans FB;
+	font-size:50px;
+    margin: 2%;
+    border-radius: 25px;
+    color:chartreuse;
+    background-color: white;
+}
+body{
+
+	background-image: url("https://cdn.vox-cdn.com/thumbor/Z6WOnal2IptjWLGpgBaawHwS2nY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66661060/acastro_200311_3936_coronavirus_0001.0.0.jpg")
+}
+
+.active{
+	font-family: cursive;
+}
+nav a:hover{
+	color:white;
+	transform: scale(2.1);
+}
+nav a:focus{
+	color: gold;
+}
+nav a:visited{
+	color: deeppink;
+}
+section{
+	color:lavender;
+	font-size: 30px;
+	-webkit-user-modify:read-write-plaintext-only;
+	-moz-user-modify:read-write-plaintext-only;
+	margin: 4%;
+	border-radius:20rem;
+}
+footer{
+	font-size: 40px;
+	color:yellow;
+}
+a{
+	text-decoration: none;
+}
+background-image{
+	height: 25px;
+}
